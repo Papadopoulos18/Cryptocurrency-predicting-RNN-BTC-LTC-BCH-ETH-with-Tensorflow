@@ -1,4 +1,4 @@
-# Cryptocurrency-predicting-RNN BTC, LTC, BCH, ETH) with Tensorflow
+# Cryptocurrency-predicting-RNN (BTC, LTC, BCH, ETH) with Tensorflow
 
 The data we'll be using is Open, High, Low, Close, Volume data for Bitcoin, Ethereum, Litecoin and Bitcoin Cash.
 
